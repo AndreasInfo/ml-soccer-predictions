@@ -1,0 +1,37 @@
+,Home Team,Away Team,Date,Kick Off,Home Goals,Away Goals,Result,Home Points,Away Points,Matchweek,Competition,Primary Key,Season,Home Coach,Away Coach,Home Test,Away Test
+0,FC Bayern München,Bayer 04 Leverkusen,2017-08-18,20:30,3,1,H,3,0,1,Bundesliga,2017-08-18FC Bayern MünchenBayer 04 Leverkusen,2017-2018,Carlo Ancelotti,Heiko Herrlich,4,1
+1,Hertha BSC,VfB Stuttgart,2017-08-19,15:30,2,0,H,3,0,1,Bundesliga,2017-08-19Hertha BSCVfB Stuttgart,2017-2018,Pál Dárdai,Hannes Wolf,5,2
+2,TSG 1899 Hoffenheim,Werder Bremen,2017-08-19,15:30,1,0,H,3,0,1,Bundesliga,2017-08-19TSG 1899 HoffenheimWerder Bremen,2017-2018,Julian Nagelsmann,Alexander Nouri,4,5
+3,1. FSV Mainz 05,Hannover 96,2017-08-19,15:30,0,1,A,0,3,1,Bundesliga,2017-08-191. FSV Mainz 05Hannover 96,2017-2018,Sandro Schwarz,André Breitenreiter,4,3
+4,VfL Wolfsburg,Borussia Dortmund,2017-08-19,15:30,0,3,A,0,3,1,Bundesliga,2017-08-19VfL WolfsburgBorussia Dortmund,2017-2018,Andries Jonker,Peter Bosz,2,5
+5,Hamburger SV,FC Augsburg,2017-08-19,15:30,1,0,H,3,0,1,Bundesliga,2017-08-19Hamburger SVFC Augsburg,2017-2018,Markus Gisdol,Manuel Baum,3,2
+6,FC Schalke 04,Rasenballsport Leipzig,2017-08-19,18:30,2,0,H,3,0,1,Bundesliga,2017-08-19FC Schalke 04Rasenballsport Leipzig,2017-2018,Domenico Tedesco,Ralph Hasenhüttl,3,4
+7,SC Freiburg,Eintracht Frankfurt,2017-08-20,15:30,0,0,D,1,1,1,Bundesliga,2017-08-20SC FreiburgEintracht Frankfurt,2017-2018,Christian Streich,Niko Kovač,4,2
+8,Borussia Mönchengladbach,1. FC Köln,2017-08-20,18:00,1,0,H,3,0,1,Bundesliga,2017-08-20Borussia Mönchengladbach1. FC Köln,2017-2018,Dieter Hecking,Peter Stöger,1,3
+9,1. FC Köln,Hamburger SV,2017-08-25,20:30,1,3,A,0,3,2,Bundesliga,2017-08-251. FC KölnHamburger SV,2017-2018,Peter Stöger,Markus Gisdol,5,4
+10,VfB Stuttgart,1. FSV Mainz 05,2017-08-26,15:30,1,0,H,3,0,2,Bundesliga,2017-08-26VfB Stuttgart1. FSV Mainz 05,2017-2018,Hannes Wolf,Sandro Schwarz,3,3
+11,Eintracht Frankfurt,VfL Wolfsburg,2017-08-26,15:30,0,1,A,0,3,2,Bundesliga,2017-08-26Eintracht FrankfurtVfL Wolfsburg,2017-2018,Niko Kovač,Andries Jonker,1,5
+12,FC Augsburg,Borussia Mönchengladbach,2017-08-26,15:30,2,2,D,1,1,2,Bundesliga,2017-08-26FC AugsburgBorussia Mönchengladbach,2017-2018,Manuel Baum,Dieter Hecking,4,3
+13,Bayer 04 Leverkusen,TSG 1899 Hoffenheim,2017-08-26,15:30,2,2,D,1,1,2,Bundesliga,2017-08-26Bayer 04 LeverkusenTSG 1899 Hoffenheim,2017-2018,Heiko Herrlich,Julian Nagelsmann,5,2
+14,Werder Bremen,FC Bayern München,2017-08-26,15:30,0,2,A,0,3,2,Bundesliga,2017-08-26Werder BremenFC Bayern München,2017-2018,Alexander Nouri,Carlo Ancelotti,2,4
+15,Borussia Dortmund,Hertha BSC,2017-08-26,18:30,2,0,H,3,0,2,Bundesliga,2017-08-26Borussia DortmundHertha BSC,2017-2018,Peter Bosz,Pál Dárdai,1,4
+16,Rasenballsport Leipzig,SC Freiburg,2017-08-27,15:30,4,1,H,3,0,2,Bundesliga,2017-08-27Rasenballsport LeipzigSC Freiburg,2017-2018,Ralph Hasenhüttl,Christian Streich,3,4
+17,Hannover 96,FC Schalke 04,2017-08-27,18:00,1,0,H,3,0,2,Bundesliga,2017-08-27Hannover 96FC Schalke 04,2017-2018,André Breitenreiter,Domenico Tedesco,5,1
+18,Hamburger SV,Rasenballsport Leipzig,2017-09-08,20:30,0,2,A,0,3,3,Bundesliga,2017-09-08Hamburger SVRasenballsport Leipzig,2017-2018,Markus Gisdol,Ralph Hasenhüttl,2,3
+19,VfL Wolfsburg,Hannover 96,2017-09-09,15:30,1,1,D,1,1,3,Bundesliga,2017-09-09VfL WolfsburgHannover 96,2017-2018,Andries Jonker,André Breitenreiter,1,1
+20,SC Freiburg,Borussia Dortmund,2017-09-09,15:30,0,0,D,1,1,3,Bundesliga,2017-09-09SC FreiburgBorussia Dortmund,2017-2018,Christian Streich,Peter Bosz,4,1
+21,FC Augsburg,1. FC Köln,2017-09-09,15:30,3,0,H,3,0,3,Bundesliga,2017-09-09FC Augsburg1. FC Köln,2017-2018,Manuel Baum,Peter Stöger,3,3
+22,Borussia Mönchengladbach,Eintracht Frankfurt,2017-09-09,15:30,0,1,A,0,3,3,Bundesliga,2017-09-09Borussia MönchengladbachEintracht Frankfurt,2017-2018,Dieter Hecking,Niko Kovač,5,2
+23,1. FSV Mainz 05,Bayer 04 Leverkusen,2017-09-09,15:30,3,1,H,3,0,3,Bundesliga,2017-09-091. FSV Mainz 05Bayer 04 Leverkusen,2017-2018,Sandro Schwarz,Heiko Herrlich,1,1
+24,TSG 1899 Hoffenheim,FC Bayern München,2017-09-09,18:30,2,0,H,3,0,3,Bundesliga,2017-09-09TSG 1899 HoffenheimFC Bayern München,2017-2018,Julian Nagelsmann,Carlo Ancelotti,1,1
+25,Hertha BSC,Werder Bremen,2017-09-10,15:30,1,1,D,1,1,3,Bundesliga,2017-09-10Hertha BSCWerder Bremen,2017-2018,Pál Dárdai,Alexander Nouri,4,1
+26,FC Schalke 04,VfB Stuttgart,2017-09-10,18:00,3,1,H,3,0,3,Bundesliga,2017-09-10FC Schalke 04VfB Stuttgart,2017-2018,Domenico Tedesco,Hannes Wolf,2,3
+27,Hannover 96,Hamburger SV,2017-09-15,20:30,2,0,H,3,0,4,Bundesliga,2017-09-15Hannover 96Hamburger SV,2017-2018,André Breitenreiter,Markus Gisdol,5,1
+28,VfB Stuttgart,VfL Wolfsburg,2017-09-16,15:30,1,0,H,3,0,4,Bundesliga,2017-09-16VfB StuttgartVfL Wolfsburg,2017-2018,Hannes Wolf,Andries Jonker,1,1
+29,Eintracht Frankfurt,FC Augsburg,2017-09-16,15:30,1,2,A,0,3,4,Bundesliga,2017-09-16Eintracht FrankfurtFC Augsburg,2017-2018,Niko Kovač,Manuel Baum,2,5
+30,FC Bayern München,1. FSV Mainz 05,2017-09-16,15:30,4,0,H,3,0,4,Bundesliga,2017-09-16FC Bayern München1. FSV Mainz 05,2017-2018,Carlo Ancelotti,Sandro Schwarz,3,5
+31,Werder Bremen,FC Schalke 04,2017-09-16,15:30,1,2,A,0,3,4,Bundesliga,2017-09-16Werder BremenFC Schalke 04,2017-2018,Alexander Nouri,Domenico Tedesco,1,2
+32,Rasenballsport Leipzig,Borussia Mönchengladbach,2017-09-16,18:30,2,2,D,1,1,4,Bundesliga,2017-09-16Rasenballsport LeipzigBorussia Mönchengladbach,2017-2018,Ralph Hasenhüttl,Dieter Hecking,1,5
+33,TSG 1899 Hoffenheim,Hertha BSC,2017-09-17,13:30,1,1,D,1,1,4,Bundesliga,2017-09-17TSG 1899 HoffenheimHertha BSC,2017-2018,Julian Nagelsmann,Pál Dárdai,3,1
+34,Bayer 04 Leverkusen,SC Freiburg,2017-09-17,15:30,4,0,H,3,0,4,Bundesliga,2017-09-17Bayer 04 LeverkusenSC Freiburg,2017-2018,Heiko Herrlich,JOHN DOE,3,4
+35,Borussia Dortmund,1. FC Köln,2017-09-17,18:00,5,0,,0,3,4,Bundesliga,2017-09-17Borussia Dortmund1. FC Köln,1999-2000,Peter Bosz,Peter Stöger,5,3

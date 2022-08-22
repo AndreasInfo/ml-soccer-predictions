@@ -1,0 +1,45 @@
+,Home Team,Away Team,Day,Matchweek,Competition,Season,lrc_Prediction,rfc_Prediction,mlp_Prediction,knc_Prediction
+0,West Ham United,Newcastle United,Sa.,26,Premier League,2021-2022,H,H,H,H
+1,FC Arsenal,FC Brentford,Sa.,26,Premier League,2021-2022,H,H,H,H
+2,Aston Villa,FC Watford,Sa.,26,Premier League,2021-2022,H,H,H,H
+3,Brighton & Hove Albion,FC Burnley,Sa.,26,Premier League,2021-2022,H,H,H,H
+4,Crystal Palace,FC Chelsea,Sa.,26,Premier League,2021-2022,A,A,A,A
+5,FC Liverpool,Norwich City,Sa.,26,Premier League,2021-2022,H,H,H,H
+6,FC Southampton,FC Everton,Sa.,26,Premier League,2021-2022,H,H,H,H
+7,Manchester City,Tottenham Hotspur,Sa.,26,Premier League,2021-2022,H,H,H,H
+8,Leeds United,Manchester United,So.,26,Premier League,2021-2022,A,A,A,A
+9,Wolverhampton Wanderers,Leicester City,So.,26,Premier League,2021-2022,H,H,H,H
+10,1. FSV Mainz 05,Bayer 04 Leverkusen,Fr.,23,Bundesliga,2021-2022,A,H,A,A
+11,Arminia Bielefeld,1. FC Union Berlin,Sa.,23,Bundesliga,2021-2022,H,H,A,H
+12,FC Augsburg,SC Freiburg,Sa.,23,Bundesliga,2021-2022,D,H,A,H
+13,VfB Stuttgart,VfL Bochum,Sa.,23,Bundesliga,2021-2022,D,H,A,H
+14,VfL Wolfsburg,TSG 1899 Hoffenheim,Sa.,23,Bundesliga,2021-2022,D,A,A,A
+15,1. FC Köln,Eintracht Frankfurt,Sa.,23,Bundesliga,2021-2022,A,D,A,H
+16,FC Bayern München,SpVgg Greuther Fürth,So.,23,Bundesliga,2021-2022,H,H,H,H
+17,Borussia Dortmund,Borussia Mönchengladbach,So.,23,Bundesliga,2021-2022,H,H,A,H
+18,Hertha BSC,Rasenballsport Leipzig,So.,23,Bundesliga,2021-2022,A,H,A,A
+19,FC Elche,Rayo Vallecano,Fr.,25,La Liga,2021-2022,H,H,A,H
+20,CA Osasuna,Atletico Madrid,Sa.,25,La Liga,2021-2022,D,A,H,H
+21,FC Cádiz,FC Getafe,Sa.,25,La Liga,2021-2022,D,H,H,H
+22,Real Madrid,Deportivo Alavés,Sa.,25,La Liga,2021-2022,H,H,A,H
+23,RCD Espanyol Barcelona,FC Sevilla,So.,25,La Liga,2021-2022,D,H,A,A
+24,LOSC Lille,FC Metz,Fr.,25,Ligue 1,2021-2022,H,H,A,H
+25,RC Lens,Olympique Lyon,Sa.,25,Ligue 1,2021-2022,D,A,A,A
+26,FC Nantes,Paris Saint-Germain,Sa.,25,Ligue 1,2021-2022,A,H,A,A
+27,OGC Nizza,SCO Angers,So.,25,Ligue 1,2021-2022,H,H,A,H
+28,FC Lorient,HSC Montpellier,So.,25,Ligue 1,2021-2022,D,H,A,D
+29,Stade Reims,Stade Brest,So.,25,Ligue 1,2021-2022,H,H,H,H
+30,Stade Rennes,ES Troyes AC,So.,25,Ligue 1,2021-2022,H,H,H,H
+31,AS Saint-Étienne,Racing Strasbourg,So.,25,Ligue 1,2021-2022,D,H,A,H
+32,Girondins Bordeaux,AS Monaco,So.,25,Ligue 1,2021-2022,A,H,A,A
+33,Olympique Marseille,Clermont Foot,So.,25,Ligue 1,2021-2022,H,H,A,H
+34,Juventus Turin,FC Turin,Fr.,26,Serie A,2021-2022,H,H,A,H
+35,Sampdoria Genua,FC Empoli,Sa.,26,Serie A,2021-2022,D,H,A,H
+36,AS Rom,Hellas Verona,Sa.,26,Serie A,2021-2022,H,H,A,H
+37,US Salernitana,AC Mailand,Sa.,26,Serie A,2021-2022,A,H,A,A
+38,AC Florenz,Atalanta Bergamo,So.,26,Serie A,2021-2022,H,H,A,H
+39,FC Venedig,CFC Genua,So.,26,Serie A,2021-2022,D,H,A,A
+40,Inter Mailand,US Sassuolo Calcio,So.,26,Serie A,2021-2022,D,H,A,H
+41,Udinese Calcio,Lazio Rom,So.,26,Serie A,2021-2022,A,H,A,A
+42,Cagliari Calcio,SSC Neapel,Mo.,26,Serie A,2021-2022,A,A,A,A
+43,FC Bologna,Spezia Calcio,Mo.,26,Serie A,2021-2022,H,H,A,H
