@@ -14,6 +14,7 @@ PROMOTIONS = f"{DIRECTORY}/promotions.csv"
 MODEL = f"{DIRECTORY}/model.csv"
 GAMES = f"{DIRECTORY}/games.csv"
 PREDICTION = f"{DIRECTORY}/prediction.csv"
+SQUADS = f"{DIRECTORY}/squads.csv"
 
 
 def save_base_update(df, update):
@@ -111,3 +112,11 @@ def save_prediction(df):
 
 def load_prediction():
     return pd.read_csv(PREDICTION, index_col=0)
+
+
+def save_squads(df):
+    df.to_csv(path_or_buf=SQUADS)
+
+
+def load_squads():
+    return pd.read_csv(SQUADS, index_col=0)

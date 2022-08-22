@@ -159,6 +159,31 @@ def weltfussball_de_links():
     return result
 
 
+def fifa_translations():
+    """
+    provides team translations from FIFA
+
+    returns: dictionary - official team names to corresponding identifiers from
+    source
+
+    raises: KeyError
+    """
+    data = pd.read_excel(f"{this_directory}/translator_data.ods")
+    result = {}
+
+    for index, row in data.iterrows():
+        team = row["Team"]
+        translation = row["FIFA"]
+
+        if team in result.keys():
+            raise KeyError("Key already exists")
+
+        if not isinstance(translation, float):
+            result.update({team: translation})
+
+    return result
+
+
 def get_following_season(season):
     r"""
     calculates the following season, if format ^\d{2}.\d{2}$ (e. g. 16-17) is

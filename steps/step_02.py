@@ -16,6 +16,7 @@ class DataMonitor:
         additional = secr.load_additional()
         coaches = secr.load_coaches()
         promotions = secr.load_promotions()
+        squads = secr.load_squads()
 
         print("Check additional.csv".center(40, "-"))
 
@@ -63,9 +64,7 @@ class DataMonitor:
         ignore = pd.DataFrame()
 
         # ignore canceled games (e. g. Ligue 1 season 2019-2020 aborted after matchweek 27)
-        canceled_games = base.loc[base["Notes"].str.contains("^.*Spiel abgesagt.*$")][
-            cols
-        ]
+        canceled_games = base.loc[base["Notes"].str.contains("^.*Spiel abgesagt.*$")][cols]
         print(f"No. canceled games: {len(canceled_games)}")
         ignore = ignore.append(canceled_games)
 
@@ -76,8 +75,7 @@ class DataMonitor:
 
         # ignore future games
         upcomming_games = base.loc[
-            base["Date"]
-            >= dt.datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
+            base["Date"] >= dt.datetime.today().replace(hour=0, minute=0, second=0, microsecond=0)
         ]
         print(f"No. upcoming games: {len(upcomming_games)}")
         ignore = ignore.append(upcomming_games)
@@ -137,14 +135,11 @@ class DataMonitor:
                 & (base["Matchweek"] == matchweek)
             ]
 
-            print(
-                f"{competition} {season} Matchweek {matchweek} TARGET:{len(tmp)} ACTUAL:{games}"
-            )
+            print(f"{competition} {season} Matchweek {matchweek} TARGET:{len(tmp)} ACTUAL:{games}")
             assert len(tmp) == games
 
         tmp = base.loc[
-            (base["Competition"].isin(trans.competitions()))
-            & (base["Season"] == "2020-2021")
+            (base["Competition"].isin(trans.competitions())) & (base["Season"] == "2020-2021")
         ]
 
         print("\n- Check games played in 2020-2021\n")

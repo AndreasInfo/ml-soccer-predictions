@@ -17,6 +17,7 @@ class ProductionMaker:
         additional = secr.load_additional()
         coaches = secr.load_coaches()
         promotions = secr.load_promotions()
+        squads = secr.load_squads()
 
         df = base.merge(additional, on="Primary Key", how="left")
 
@@ -71,6 +72,20 @@ class ProductionMaker:
             df = eng.add_MAX_FEAT_Against_Last_OFFSET_Games_Before_Matchday(df, feature, offset)
             df = eng.add_MIN_FEAT_Last_OFFSET_Games_Before_Matchday(df, feature, offset)
             df = eng.add_MIN_FEAT_Against_Last_OFFSET_Games_Before_Matchday(df, feature, offset)
+
+        df = df.merge(
+            squads.add_prefix("Home "),
+            left_on=["Home Team", "Season"],
+            right_on=["Home club_name", "Home season"],
+            how="left",
+        )
+
+        df = df.merge(
+            squads.add_prefix("Away "),
+            left_on=["Away Team", "Season"],
+            right_on=["Away club_name", "Away season"],
+            how="left",
+        )
 
         secr.save_production_update(df, True)
 
