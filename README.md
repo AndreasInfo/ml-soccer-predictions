@@ -1,4 +1,4 @@
-# Top Secret
+# ML soccer predictions
 
 This project aims for soccer predictions regarding Europe's big five leagues Premier League, La Liga, Bundesliga, Serie A and Ligue 1. The predictions are based on supervised ML and uses data starting from season 2017/2018.
 
@@ -43,7 +43,7 @@ The project offers a semi-automated controller implemented in **00_a_production.
 
 More testing and real world simulations with different strategies are implemented in **01\_\*** notebooks.
 
-### IMPORTANT
+### Important
 
 If you can find a configuration (classifier and hyperparameter) in **step_05** from **00_a_production.ipynb**, which result in a score < 0.57 (yes, smaller!!!), let me know. We could get rich together ;). Hint: There is no need to run the previous steps, as the data is already scraped and pre-processed.
 
@@ -63,11 +63,11 @@ If you can find a configuration (classifier and hyperparameter) in **step_05** f
 - games.csv -> upcoming games
 - prediction.csv -> results
 
-### Technical Prerequisites
+### Technical prerequisites
 
 The scraper is implemented with Selenium and uses Chrome (https://chromedriver.chromium.org/downloads) and AdblockPlus-extension. Make sure you set it up properly in **steps/step_01.py**.
 
-### Usage and Maintenance
+### Usage and maintenance
 
 To the best of my knowledge, all data for all games and sources is available and therefore can be scraped around noon the following day. Just run **00_a_production.ipynb** and make sure you have no errors ;).
 
